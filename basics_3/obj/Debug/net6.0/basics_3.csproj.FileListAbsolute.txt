@@ -1,0 +1,15 @@
+D:\Coding\Projects\C#\learning\basics_3\basics_3\bin\Debug\net6.0\basics_3.exe
+D:\Coding\Projects\C#\learning\basics_3\basics_3\bin\Debug\net6.0\basics_3.deps.json
+D:\Coding\Projects\C#\learning\basics_3\basics_3\bin\Debug\net6.0\basics_3.runtimeconfig.json
+D:\Coding\Projects\C#\learning\basics_3\basics_3\bin\Debug\net6.0\basics_3.dll
+D:\Coding\Projects\C#\learning\basics_3\basics_3\bin\Debug\net6.0\basics_3.pdb
+D:\Coding\Projects\C#\learning\basics_3\basics_3\obj\Debug\net6.0\basics_3.csproj.AssemblyReference.cache
+D:\Coding\Projects\C#\learning\basics_3\basics_3\obj\Debug\net6.0\basics_3.GeneratedMSBuildEditorConfig.editorconfig
+D:\Coding\Projects\C#\learning\basics_3\basics_3\obj\Debug\net6.0\basics_3.AssemblyInfoInputs.cache
+D:\Coding\Projects\C#\learning\basics_3\basics_3\obj\Debug\net6.0\basics_3.AssemblyInfo.cs
+D:\Coding\Projects\C#\learning\basics_3\basics_3\obj\Debug\net6.0\basics_3.csproj.CoreCompileInputs.cache
+D:\Coding\Projects\C#\learning\basics_3\basics_3\obj\Debug\net6.0\basics_3.dll
+D:\Coding\Projects\C#\learning\basics_3\basics_3\obj\Debug\net6.0\refint\basics_3.dll
+D:\Coding\Projects\C#\learning\basics_3\basics_3\obj\Debug\net6.0\basics_3.pdb
+D:\Coding\Projects\C#\learning\basics_3\basics_3\obj\Debug\net6.0\basics_3.genruntimeconfig.cache
+D:\Coding\Projects\C#\learning\basics_3\basics_3\obj\Debug\net6.0\ref\basics_3.dll
